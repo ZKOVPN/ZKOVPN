@@ -4,17 +4,6 @@
 
 
 
-
-{
-         "name": "SG-DTAC-FREE1",
-         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/SG-DTAC-FREE1.ovpn"
-      }
-,
-{
-         "name": "SG-TRUE-FREE1",
-         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/SG-TRUE-FREE1.ovpn"
-      }
-,
 {
          "name": "TH-DTAC-GAME01-VIP",
          "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-DTAC-GAME01-VIP.ovpn"
@@ -37,32 +26,32 @@
 ,
 {
          "name": "TH-DTAC-VIP1",
-         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-DTAC-VIP1.ovpn"
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-DTAC01-VIP.ovpn"
       }
 ,
 {
          "name": "TH-DTAC-VIP2",
-         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-DTAC-VIP2.ovpn"
-      }
-,
-{
-         "name": "TH-DTAC-VIP3",
-         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-DTAC-VIP3.ovpn"
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-DTAC02-VIP.ovpn"
       }
 ,
 {
          "name": "TH-TRUE-VIP1",
-         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-TRUE-VIP1.ovpn"
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-TRUE01-VIP.ovpn"
       }
 ,
 {
          "name": "TH-TRUE-VIP2",
-         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-TRUE-VIP2.ovpn"
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-TRUE02-VIP.ovpn"
       }
-,
-{
-         "name": "TH-TRUE-VIP3",
-         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-TRUE-VIP3.ovpn"
+      ,
+      {
+         "name": "SG-TRUE-FREE1",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/SG-TRUE-FREE1.ovpn"
+      }
+      ,
+      {
+         "name": "SG-DTAC-FREE1",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/SG-DTAC-FREE1.ovpn"
       }
 
 
@@ -75,8 +64,9 @@
 🌟VIP Face+Youtube++✅
 🌟VIP Game+Online✅
 🌟VIPဝယ်ရင်Facebookဆက်သွယ်ပါ💯
-💥Update 4/9/2022✅
+🌟VIP ဂိမ်းအတွက်ရပါပြီ💯
+💥Update 5/9/2022✅
 \n\nUpdate Now",
 "title":"New Update File" ,
-   "version":16
+   "version":18
 }
