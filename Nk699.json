@@ -4,12 +4,6 @@
 
 
 
-{
-         "name": "TH-DTAC-GAME01-VIP",
-         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-DTAC-GAME01-VIP.ovpn"
-      }
-,
-
 
 {
          "name": "SG-DTAC-FREE1",
@@ -59,6 +53,11 @@
 {
          "name": "SG-TRUE-FREE5",
          "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/SG-TRUE-FREE5.ovpn"
+      }
+,
+{
+         "name": "TH-DTAC-GAME01-VIP",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-DTAC-GAME01-VIP.ovpn"
       }
 ,
 {
