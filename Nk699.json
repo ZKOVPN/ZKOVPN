@@ -6,52 +6,104 @@
 
 {
          "name": "TH-DTAC-GAME01-VIP",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/Rabbit-VPN/main/TH-DTAC-GAME01-VIP.ovpn"
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-DTAC-GAME01-VIP.ovpn"
+      }
+,
+
+
+{
+         "name": "SG-DTAC-FREE1",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/SG-DTAC-FREE1.ovpn"
+      }
+,
+{
+         "name": "SG-DTAC-FREE2",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/SG-DTAC-FREE2.ovpn"
+      }
+,
+{
+         "name": "SG-DTAC-FREE3",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/SG-DTAC-FREE3.ovpn"
+      }
+,
+{
+         "name": "SG-DTAC-FREE4",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/SG-DTAC-FREE4.ovpn"
+      }
+,
+{
+         "name": "SG-DTAC-FREE5",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/SG-DTAC-FREE5.ovpn"
+      }
+,
+{
+         "name": "SG-TRUE-FREE1",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/SG-TRUE-FREE1.ovpn"
+      }
+,
+{
+         "name": "SG-TRUE-FREE2",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/SG-TRUE-FREE2.ovpn"
+      }
+,
+{
+         "name": "SG-TRUE-FREE3",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/SG-TRUE-FREE3.ovpn"
+      }
+,
+{
+         "name": "SG-TRUE-FREE4",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/SG-TRUE-FREE4.ovpn"
+      }
+,
+{
+         "name": "SG-TRUE-FREE5",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/SG-TRUE-FREE5.ovpn"
       }
 ,
 {
          "name": "TH-DTAC-GAME02-VIP",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/Rabbit-VPN/main/TH-DTAC-GAME02-VIP.ovpn"
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-DTAC-GAME02-VIP.ovpn"
       }
 ,
 {
          "name": "TH-TRUE-GAME01-VIP",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/Rabbit-VPN/main/TH-TRUE-GAME01-VIP.ovpn"
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-TRUE-GAME01-VIP.ovpn"
       }
 ,
 {
          "name": "TH-TRUE-GAME02-VIP",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/Rabbit-VPN/main/TH-TRUE-GAME02-VIP.ovpn"
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-TRUE-GAME02-VIP.ovpn"
       }
 ,
 {
          "name": "TH-DTAC-VIP1",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/Rabbit-VPN/main/TH-DTAC-VIP1.ovpn"
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-DTAC-VIP1.ovpn"
       }
 ,
 {
          "name": "TH-DTAC-VIP2",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/Rabbit-VPN/main/TH-DTAC-VIP2.ovpn"
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-DTAC-VIP2.ovpn"
       }
 ,
 {
          "name": "TH-DTAC-VIP3",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/Rabbit-VPN/main/TH-DTAC-VIP3.ovpn"
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-DTAC-VIP3.ovpn"
       }
 ,
 {
          "name": "TH-TRUE-VIP1",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/Rabbit-VPN/main/TH-TRUE-VIP1.ovpn"
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-TRUE-VIP1.ovpn"
       }
 ,
 {
          "name": "TH-TRUE-VIP2",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/Rabbit-VPN/main/TH-TRUE-VIP2.ovpn"
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-TRUE-VIP2.ovpn"
       }
       ,
       {
          "name": "TH-TRUE-VIP3",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/Rabbit-VPN/main/TH-TRUE-VIP3.ovpn"
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-TRUE-VIP3.ovpn"
       }
 
 
