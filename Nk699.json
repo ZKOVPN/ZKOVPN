@@ -2,28 +2,6 @@
    "files": [    
 
 
-
-
-{
-         "name": "TH-DTAC-GAME01-VIP",
-         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-DTAC-GAME01-VIP.ovpn"
-      }
-,
-{
-         "name": "TH-DTAC-GAME02-VIP",
-         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-DTAC-GAME02-VIP.ovpn"
-      }
-,
-{
-         "name": "TH-TRUE-GAME01-VIP",
-         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-TRUE-GAME01-VIP.ovpn"
-      }
-,
-{
-         "name": "TH-TRUE-GAME02-VIP",
-         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-TRUE-GAME02-VIP.ovpn"
-      }
-,
 {
          "name": "TH-DTAC-VIP1",
          "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-DTAC01-VIP.ovpn"
