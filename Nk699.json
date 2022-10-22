@@ -4,22 +4,22 @@
 
 {
          "name": "TH-DTAC-VIP1",
-         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-DTAC01-VIP.ovpn"
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/01.ovpn"
       }
 ,
 {
          "name": "TH-DTAC-VIP2",
-         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-DTAC02-VIP.ovpn"
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/02.ovpn"
       }
 ,
 {
          "name": "TH-TRUE-VIP1",
-         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-TRUE01-VIP.ovpn"
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/03.ovpn"
       }
 ,
 {
          "name": "TH-TRUE-VIP2",
-         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/TH-TRUE02-VIP.ovpn"
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/04.ovpn"
       }
       ,
       {
@@ -45,5 +45,5 @@
 💥Update 22/10/2022✅
 \n\nUpdate Now",
 "title":"New Update File" ,
-   "version":24
+   "version":25
 }
